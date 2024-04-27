@@ -6,7 +6,6 @@ import {
   NavbarBrand,
   Nav,
   NavItem,
-  NavLink
 } from "reactstrap";
 import { Link } from "react-router-dom";
 import logo from "../images/ED-Horizontal_2-color_Logo.png";

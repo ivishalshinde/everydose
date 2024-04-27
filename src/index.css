@@ -12,3 +12,20 @@ code {
     monospace;
     color: #1D37F2
 }
+
+.bg-gray {
+  background-color: #f2f2f2;
+}
+
+.bg-gray:active {
+  background-color: #f2f2f2;
+}
+
+.bg-gray:focus {
+  background-color: #f2f2f2;
+}
+
+.lable-text-sm{
+  /* color: #f2f2f2; */
+  font-size: 14px;
+}
